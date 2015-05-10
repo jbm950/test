@@ -2,4 +2,5 @@ testing github's awesomeness
 added another line
 last line!
 no username and password this time
-added another line to show my dad
+added another line to show my dad 
+Added some text on a branch to merge
